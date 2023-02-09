@@ -7,7 +7,7 @@ require (
 	github.com/cosmos/cosmos-proto v1.0.0-beta.1 // indirect
 	github.com/cosmos/cosmos-sdk v0.47.0-rc1.0.20230119225816-30bd414d8353
 	github.com/cosmos/gogogateway v1.2.0 // indirect
-	github.com/cosmos/gogoproto v1.4.3 // indirect
+	github.com/cosmos/gogoproto v1.4.4 // indirect
 	github.com/cosmos/iavl v0.19.4 // indirect
 	github.com/cosmos/ibc-go/v7 v7.0.0-beta2
 	github.com/cosmos/ics23/go v0.9.1-0.20221207100636-b1abd8678aab // indirect
@@ -29,7 +29,7 @@ require (
 	github.com/tendermint/tendermint v0.37.0-rc2
 	github.com/tendermint/tm-db v0.6.7
 	google.golang.org/genproto v0.0.0-20221227171554-f9683d7f8bef // indirect
-	google.golang.org/grpc v1.52.1 // indirect
+	google.golang.org/grpc v1.52.3 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
 
